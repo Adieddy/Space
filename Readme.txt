@@ -9,6 +9,8 @@ Just find out the path and save the Galaxy...
 To run this game
 *****************
 
+Java version: 1.8
+
 Build game:
 	mvn clean install
 
